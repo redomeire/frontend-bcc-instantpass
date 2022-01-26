@@ -2,7 +2,7 @@
 
 ## :love_letter: Invitation Letter
 
-Hello everyone, we are from the Frontend (FE) department hold a Free Pass route for those of you who want to enter the FE department. There are 2 ways to pass this path, the first is to complete the submission challenge listed below (according to your interests). Another way is to do a pull request (PR) on the BCC design system project which is found in the following [link](https://github.com/bccfilkom/designsystem)
+Hello everyone, we are from the Frontend (FE) department hold a Free Pass route for those of you who want to enter the FE department. There are 2 ways to pass this path, the first is to complete one of the submission challenge listed below (Web/Multi Platform). Another way is to do a pull request (PR) on the BCC design system project which is found in the following [link](https://github.com/bccfilkom/designsystem)
 
 ## :star::computer: Challenge (Web)
 
@@ -12,7 +12,7 @@ Make a simple web application by implementing the features below:
 * Implementasi penggunaan API.
 * Implementasi State management.
 * Implementasi Responsive Web.
-* Desain UI aplikasi tidak dibatasi.
+* Desain dari Aplikasi tidak wajib merupakan desain sendiri, boleh mengambil referensi dari internet/pihak lain.
 
 ## :star::iphone: Challenge (Multi Platform - Flutter)
 
@@ -23,7 +23,7 @@ Make a simple Mobile application by implementing the features below:
 * Implementasi penggunaan state management.
 * Implementasi penggunaan API.
 * Implementasi Testing.
-* Desain UI aplikasi tidak dibatasi.
+* Desain dari Aplikasi tidak wajib merupakan desain sendiri, boleh mengambil referensi dari internet/pihak lain.
 
 ## :100: Bonus Point Advice
 
