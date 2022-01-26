@@ -13,8 +13,8 @@ Here's how to submit a Pull Request (PR):
 2. Clone your fork of the repository to your local computer.
 3. Create a branch with a descriptive name to work (i.e., `git checkout -b your-name`).
 4. Make changes, commit them, and push the branch to your repository fork.
-5. [Submit a pull request][pull-req] to the master branch.
-6. Please leave us your LINE contact on the pull request, we will text you for further information.
+5. [Submit a pull request][pull-req] to the main branch.
+6. Please leave us your information such as name and LINE ID on the pull request, we will text you for further information.
 
 [fork]: https://help.github.com/articles/fork-a-repo
 
