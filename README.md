@@ -6,7 +6,7 @@ Hello everyone, we are from the Frontend (FE) department hold a Free Pass route 
 
 ## :star::computer: Challenge (Web)
 
-Make a simple web application by implementing the features below:
+Make a web application by implementing the features below:
 
 * Implementasi Framework/libraries JS.
 * Implementasi penggunaan API.
@@ -16,7 +16,7 @@ Make a simple web application by implementing the features below:
 
 ## :star::iphone: Challenge (Multi Platform - Flutter)
 
-Make a simple Mobile application by implementing the features below:
+Make a Mobile application by implementing the features below:
  
 * Aplikasi dapat melakukan operasi CRUD (create, read, update, delete).
 * Implementasi penyimpanan lokal.
