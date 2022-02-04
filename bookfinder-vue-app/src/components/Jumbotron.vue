@@ -13,7 +13,6 @@
           Hello there! Welcome to the IT bookfinder website. Here, you can find
           your favorite IT book based on the title or the ISBN. The books
           consist of tutorial, popular frameworks, latest technology, and etc.
-          This website consume itbookstore api
         </p>
         <b-button class="mt-4 font-weight-bold" href="#findBook"
           >Scroll down</b-button
