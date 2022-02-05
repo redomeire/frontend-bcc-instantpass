@@ -30,10 +30,10 @@
         >
           <h6>Book Data</h6>
           <ul>
-            <li>Judul : {{ title }}</li>
-            <li>Subjudul : {{ subtitle }}</li>
+            <li>Title : {{ title }}</li>
+            <li>Subtitle : {{ subtitle }}</li>
             <li>Price : {{ price }}</li>
-            <li>isbn code : {{ isbn }}</li>
+            <li>ISBN code : {{ isbn }}</li>
           </ul>
           <a
             :href="url"

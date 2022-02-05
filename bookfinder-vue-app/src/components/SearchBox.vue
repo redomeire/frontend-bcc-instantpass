@@ -15,7 +15,7 @@
       >
         <div class="forms d-flex flex-wrap">
           <div class="form-1 w-100 text-left">
-            <label for="" class="mb-2">Search by title or isbn</label>
+            <label for="" class="mb-2">example : vue js</label>
             <div class="form-outline">
               <input
                 type="search"
