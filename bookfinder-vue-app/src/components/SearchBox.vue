@@ -15,13 +15,13 @@
       >
         <div class="forms d-flex flex-wrap">
           <div class="form-1 w-100 text-left">
-            <label for="" class="mb-2">example : vue js</label>
+            <label for="" class="mb-2">Search by title or ISBN</label>
             <div class="form-outline">
               <input
                 type="search"
                 id="search-title"
                 class="form-control search-input text-black"
-                placeholder="type something..."
+                placeholder="example : vue js"
               />
             </div>
           </div>
